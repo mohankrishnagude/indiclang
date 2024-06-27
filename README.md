@@ -15,7 +15,9 @@ View the transliterated text in the output section.# indiclang
 **Getting Started**
 To get started with the project:
 1.Clone repository
-<img width="494" alt="image" src="https://github.com/mohankrishnagude/indiclang/assets/121798336/91816a05-3808-4a23-a17d-904f0d8e5c4d">
+```
+git clone https://github.com/mohankrishnagude/indiclang.git
+```
 2.Open the index.html file in your web browser.
 Feedback and Contributions
 Feedback and contributions are welcome! If you encounter any issues or have suggestions for improvement, please open an issue or submit a pull request.
